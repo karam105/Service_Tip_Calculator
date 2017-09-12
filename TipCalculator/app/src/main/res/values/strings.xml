@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="enter_your_bill_here">Enter your bill here</string>
+    <string name="what_is_the_total_price">What is the total price:</string>
+    <string name="service_prompt">Service Rating</string>
+    <string name="what_s_my_total_with_tip">What\'s my total with tip?</string>
+    <string name="rate_your_service_using_the_drop_down_menu_below">Rate your service using the drop down menu below</string>
+    <string name="what_s_my_tip">What\'s my tip?</string>
+    <string name="clear">Clear</string>
+
+    <string-array name="rating">
+        <item>1 star</item>
+        <item>2 stars</item>
+        <item>3 stars</item>
+        <item>4 stars</item>
+        <item>5 stars</item>
+        <item>6 stars</item>
+        <item>7 stars</item>
+        <item>8 stars</item>
+        <item>9 stars</item>
+        <item>10 stars</item>
+    </string-array>
+</resources>
